@@ -1,0 +1,30 @@
+div {
+  width: 200px;
+  height: 200px;
+}
+
+.vermelho-borda {
+      display: inline-block;
+      border: 2px solid black;
+      background-color: red;
+  }
+  
+.vermelho {
+  display: inline-block;
+      background-color: red;
+}
+
+.azul {
+  display: inline-block;
+      background-color:blue;
+}
+
+.verde {
+  display: inline-block;
+      background-color: green;
+}
+
+.amarelo {
+  display: inline-block;
+      background-color: yellow;
+}
